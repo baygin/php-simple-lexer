@@ -1,0 +1,19 @@
+{
+    "name": "baygin/php-simple-lexer",
+    "description": "The Lexer layer of Compiler/Interpreter",
+    "type": "project",
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "SimpleInterpreter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "baygin",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "version": "1.0.0"
+}
